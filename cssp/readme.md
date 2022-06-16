@@ -1,0 +1,1 @@
+#coming soon tempalte to practcie the css variable
