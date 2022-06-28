@@ -2,3 +2,14 @@ body{
     background-color: black;
     color: white;
 }
+
+p{
+    border: 2px solid white;
+}
+#redelement{
+    color:red;
+}
+
+footer, span{
+    background-color: pink;
+}
