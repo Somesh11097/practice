@@ -1,0 +1,33 @@
+section{
+    width:100%;
+   
+    box-sizing: border-box;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap:3rem;
+    
+}
+.container1{
+    border: 3px solid black;
+    /* margin:2rem; */
+    /* flex:2; */
+   
+    
+}
+
+.container2{
+    border:3px solid red;
+    /* margin:2rem; */
+    /* flex:1; */
+}
+
+.container3{
+    border:3px solid green;
+    /* margin:2rem; */
+    /* flex:3; */
+
+}
+
